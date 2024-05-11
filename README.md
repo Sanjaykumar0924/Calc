@@ -237,11 +237,8 @@ for (item of buttons) {
 ```
 
 ## OUTPUT:
-
-![Screenshot 2024-04-24 213220](https://github.com/aswethaashok/Calc/assets/149987410/9bc47ca2-033d-4b0a-ace1-5c7169668638)
-
-![Screenshot 2024-04-24 213229](https://github.com/aswethaashok/Calc/assets/149987410/5f69e329-27ce-4910-88bd-f7eca62d8823)
-
+![2024-05-11](https://github.com/Sanjaykumar0924/Calc/assets/144149258/be770c92-b627-4f45-8ca1-60b508cd7f39)
+![2024-05-11 (9)](https://github.com/Sanjaykumar0924/Calc/assets/144149258/0ee31cf3-275c-4c96-8a49-3d42380376f5)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
